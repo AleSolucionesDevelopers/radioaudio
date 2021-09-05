@@ -147,3 +147,32 @@ http://streaming2.locucionar.com:8509/stream
 
 #EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", RADIO MONARCA *
 http://radio.netyco.com.ar:7262/;stream.nsv
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", RADIO CHACRA *
+https://radios.streamingdha.com.ar:7015/;
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", RADIO KINDOSTAN *
+https://streaming1.locucionar.com/proxy/radiokindostan?mp=/stream
+
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", RADIO MIX ARGENTINA *
+https://stream01.server-inside.com.ar:9601/mixargentina
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", RADIO PRELUDIO *
+https://sc.dattalive.com/8588/stream
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", RADIO RMU *
+http://streaming1.locucionar.com:14273/stream
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", RADIO SATSAID *
+https://radios.streamingdha.com.ar:7016/stream?type=http&nocache=106
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", RADIO SONIC *
+https://streams.cloudcast.media/radio/8000/listen.mp3
+
+#EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", WCLASSIC RADIO*
+https://server.ohradio.com.ar:7134/;
+
+
+
+
