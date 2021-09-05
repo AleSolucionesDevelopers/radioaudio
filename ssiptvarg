@@ -144,3 +144,6 @@ https://server.laradio.online:58013/live
 
 #EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", FARBAP *
 http://streaming2.locucionar.com:8509/stream
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", RADIO MONARCA *
+http://radio.netyco.com.ar:7262/;stream.nsv
