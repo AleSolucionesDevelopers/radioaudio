@@ -105,3 +105,21 @@ http://streaming1.locucionar.com:12982/stream
 
 #EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", FM CIUDAD 90.7 *
 https://argentina.republicahosting.com:1114/live
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", ESPACIO 91.7 FM *
+http://109.169.76.153:16783/;?type=http&nocache=9800
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", FM DEL ESTE 99.3 FM *
+http://deleste.no-ip.info:8000/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", FM SANTA RITA 91.9 *
+https://chino.republicahosting.com:2213/live
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", NEW PLAY 96.5 FM *
+https://server.ohradio.com.ar:7130/;
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", EXTREMO 88.7 FM *
+https://emisiones.com.uy:5127/extremo
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", RADIO ARMONIA AM 1600 *
+http://streamall.alsolnet.com:443/armoniahd
