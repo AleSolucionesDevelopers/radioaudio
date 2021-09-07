@@ -176,6 +176,43 @@ https://streams.cloudcast.media/radio/8000/listen.mp3
 #EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", WCLASSIC RADIO*
 https://server.ohradio.com.ar:7134/;
 
+#EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", RADIO RECONQUISTA 89.5 FM*
+http://aler.org:8000/radiofmreconquista.ogg
+
+#EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", RADIO CRISTIANA  88.3 FM*
+https://acastream.org:20048/;
+
+#EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", FM MAGIC 80 100.9 FM*
+http://51.15.160.78:8192/;
+
+#EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", MARANATA 89.3 FM*
+http://51.79.51.128:6264/;
+
+#EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", RADIO PODESTAD 89.3 FM*
+http://109.169.14.34:34939/;
+
+#EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", DIGITAL AM 860*
+http://cristal1290.no-ip.com:88/broadwavehigh.mp3?src=1
+
+#EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", INDEPENDENCIA AM 1160*
+http://78.129.150.159:14700/;stream.nsv
+
+#EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", FM COMPARTIENDO 89.7FM*
+http://server.laradio.online:8467/live
+
+#EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", RADIO NOVAK 91.1 FM*
+http://190.120.191.168:8000/radionovak
+
+#EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", PARAISO 106.1 FM*
+http://server3.veemesoft.com.ar:25867/;
+
+#EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", LOCANDENTERADIO WEB*
+https://streaming01.shockmedia.com.ar/8286/;
+
+#EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", Fm Remo 91.9 *
+http://server.ohradio.com.ar:9774/;
+
+
 
 
 
