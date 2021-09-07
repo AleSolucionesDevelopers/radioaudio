@@ -249,8 +249,11 @@ https://radio13.servidorderadio.net/9360/stream
 #EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", MP3RADIO *
 http://69.64.46.123:8108/;stream.mp3
 
+#EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", RADIO GALAXIA 105.9 FM *
+https://server.ohradio.com.ar:7130/;
 
-
+#EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", LA TECNO 88.3 FM*
+http://190.120.191.168:8000/latecno
 
 
 
