@@ -9,7 +9,10 @@ http://01.solumedia.com.ar:8230/stream
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Radio_rockpop.png" group-title="RADIO", ROCK AND POP *
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Radio_rockpop.png" group-title="RADIO", PREMIUM CLASSICS 98.9 FM *
 http://stream.zeno.fm/7r7m3kmtpg8uv.m3u
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Radio_Rivadavia_%282020%29.png" group-title="RADIO", RADIO RIVADAVIA *
