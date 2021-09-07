@@ -246,6 +246,9 @@ https://stream01.server-inside.com.ar:9608/fmurbana
 #EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", RADIO CENTER 98.5 FM *
 https://radio13.servidorderadio.net/9360/stream
 
+#EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", MP3RADIO *
+http://69.64.46.123:8108/;stream.mp3
+
 
 
 
