@@ -212,6 +212,19 @@ https://streaming01.shockmedia.com.ar/8286/;
 #EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", Fm Remo 91.9 *
 http://server.ohradio.com.ar:9774/;
 
+#EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", LA RADIO PUBLICA 90.7 *
+https://sonic.dattalive.com/8390/stream
+
+#EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", RADIO QUASAR 100.3 FM *
+https://server.ohradio.com.ar:7203/;
+
+#EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", FM FENIX 100.3 FM *
+http://stream.zeno.fm/1y3p37tua18uv
+
+#EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", FM FEDERAL 98.1 FM *
+https://streaming01.shockmedia.com.ar:10459/stream
+
+
 
 
 
