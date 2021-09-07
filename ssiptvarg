@@ -224,6 +224,30 @@ http://stream.zeno.fm/1y3p37tua18uv
 #EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", FM FEDERAL 98.1 FM *
 https://streaming01.shockmedia.com.ar:10459/stream
 
+#EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", RADIO MARIN 90.5 FM *
+http://alpha.radioplayer.com.ar:9242/radiomarin905
+
+#EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", RADIO CLARIDAD AM 1080 *
+http://01.solumedia.com.ar:7253/stream
+
+#EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", SAGRADA FAMILIA AM 1150 *
+https://dreamsiteradiocp6.com/proxy/argentinarm?mp=/stream
+
+
+#EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", FM RETRO HITS 105.7 FM *
+https://streaming.escuchanosonline.com:7000/;
+
+#EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", RADIO TRADICION 1580 AM *
+http://server.laradio.online:9054/stream?type=http&nocache=1
+
+#EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", FM URBANA 102.1 FM *
+https://stream01.server-inside.com.ar:9608/fmurbana
+
+#EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", RADIO CENTER 98.5 FM *
+https://radio13.servidorderadio.net/9360/stream
+
+
+
 
 
 
