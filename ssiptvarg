@@ -309,7 +309,13 @@ https://server.laradio.online:58817/live
 #EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", URBANA FM CIUDAD PERICO 103.3 FM (JUJUY)*
 https://01.solumedia.com.ar:8732/stream
 
+#EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", RADIO UNO HUMAHUACA 91.1 FM (JUJUY)*
+http://server2.veemesoft.com.ar:12594/;
 
+#EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", RADIO SILOH SAN PEDRO DE JUJUY 92.9 FM (JUJUY)*
+http://35.196.198.0:8000/siloh
 
+#EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", RADIO FM NATIVA SAN PEDRO DE JUJUY 95.1 FM (JUJUY)*
+http://198.7.58.248:33300/;
 
 
