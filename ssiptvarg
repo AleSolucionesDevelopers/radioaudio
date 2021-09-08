@@ -300,6 +300,15 @@ https://server.ohradio.com.ar:7035/;
 #EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", DALE FM TAFI VIEJO 104.7 FM (TUCUMAN)*
 http://server9.veemesoft.com.ar:11704/;
 
+#EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", AMERICA ABRE PAMPA 90.7 FM (JUJUY)*
+https://streaming01.shockmedia.com.ar:10950/stream
+
+#EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", FM PAIS CIUDAD PERICO 99.5 FM (JUJUY)*
+https://server.laradio.online:58817/live
+
+#EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", URBANA FM CIUDAD PERICO 103.3 FM (JUJUY)*
+https://01.solumedia.com.ar:8732/stream
+
 
 
 
