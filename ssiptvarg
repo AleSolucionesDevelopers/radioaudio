@@ -83,7 +83,7 @@ http://69.64.46.123:8009/stream
 http://streaming.localhost.net.ar:8020/;stream.mp3
 
 #EXTINF:-1 tvg-logo="https://radiotv.ar/img/logo/fmzetaradio.jpg" group-title="RADIO", FM 100.9 ZETA MORON *
-https://server.ohradio.com.ar:7211/;
+https://server.ohradio.com.ar:7211/;   
 
 #EXTINF:-1 tvg-logo="http://www.fantastica1017.com.ar/images/logoOK.jpg" group-title="RADIO", FM FANTASTICA CHILECITO 101.7 FM *
 http://alpha.radioplayer.com.ar:9180/fantastica-chilecito
