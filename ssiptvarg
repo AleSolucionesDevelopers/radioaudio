@@ -325,6 +325,13 @@ https://radio02.ferozo.com/proxy/dr030181?mp=/stream
 https://radios.solumedia.com/6124/stream
 
 
+#EXTINF:-1 tvg-logo="https://somosjujuy-wordpress.s3.amazonaws.com/wp-content/uploads/2021/01/01123810/somosjujuy-1000x100.png" group-title="RADIO", LW8 AM 630 JUJUY (SOLO AUDIO)
+https://5975e06a1f292.streamlock.net:4443/radio/am630.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://somosjujuy-wordpress.s3.amazonaws.com/wp-content/uploads/2021/01/01123810/somosjujuy-1000x100.png" group-title="RADIO", RADIO FM 97.3 TROPICO JUJUY (SOLO AUDIO)
+https://5975e06a1f292.streamlock.net:4443/radio/tropico.stream/playlist.m3u8
+
+
 
 
 
