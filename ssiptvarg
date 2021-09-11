@@ -437,6 +437,66 @@ http://server4.veemesoft.com.ar:26965/;
 #EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", FM NEXO 105.9 FM (CORRIENTES)*
 https://radio02.ferozo.com/proxy/ra02001383/?mp=/stream/;stream.mp3
 
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", RADIO SAN JORGE CURUZU CUATIA 106.9 FM (CORRIENTES)*
+https://autodj.nvradios.com/radio/8130/radio.mp3
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", FM 95.5 ESQUINA (CORRIENTES)*
+http://server9.veemesoft.com.ar:11026/;
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", IMPACTO FM  ESQUINA 97.5 FM (CORRIENTES)*
+http://server12.veemesoft.com.ar:19354/;
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", FM ESTILO  ESQUINA 97.9 FM (CORRIENTES)*
+http://62.210.129.76:9771/;
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", FM Z  ESQUINA 101.1 FM (CORRIENTES)*
+http://62.210.129.76:9800/;
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", RADIO VICTORIA GOB VIRASORO 102.1 FM (CORRIENTES)*
+http://server12.veemesoft.com.ar:19450/;
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", FM SAN ISIDRO GOYA 92.9 FM (CORRIENTES)*
+http://62.210.129.76:9773/;
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", RADIO ACTIVA ITA IBATE 106.1 FM (CORRIENTES)*
+http://server2.veemesoft.com.ar:12568/;
+
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", EXTREMO ITUZAINGO 106.1 FM (CORRIENTES)*
+http://server11.veemesoft.com.ar:25990/;
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", FM ACTIVA ITUZAINGO 103.3 FM (CORRIENTES)*
+https://streaming01.shockmedia.com.ar:10977/stream
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", RADIO CADENA Mburucuyá 94.9 FM (CORRIENTES)*
+http://server1.veemesoft.com.ar:8121/;
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", RADIO CITY MERCEDES 103.5 FM (CORRIENTES)*
+http://link.zeno.fm/sw8h9dutwmzuv
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", LA 103 FM RUTA MONTE CASEROS(CORRIENTES)*
+http://server12.veemesoft.com.ar:19364/;
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", FM TOTAL PASOS DE LOS LIBRES 99.3 FM (CORRIENTES)*
+http://www.totalfm.com.ar:9300/;
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", RADIO BRAVA PASOS DE LOS LIBRES 103.9 FM (CORRIENTES)*
+http://bravafm.hopto.org:88/broadwave.mp3
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", VALE FM PASOS DE LOS LIBRES 106.1 FM (CORRIENTES)*
+https://alpha.radioplayer.com.ar:9222/valefm1061
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", RADIO IN PASOS DE LOS LIBRES WEB (CORRIENTES)*
+http://63.247.91.178:13066/stream
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", RADIO FENIX DEL PASO PASO DE LA PATRIA 88.3 FM (CORRIENTES)*
+http://streaming2.locucionar.com:8661/stream
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", ESTACION FM SANTO TOME 96.7 FM (CORRIENTES)*
+http://server6.veemesoft.com.ar:19342/;
+
+
+
 
 
 
