@@ -376,4 +376,7 @@ http://198.23.219.40:8000/pulso.mp3
 #EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", RADIO MANDARINA (FORMOSA)*
 http://198.23.219.40:8000/manda.mp3
 
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", RADIO FORMOSA 88.1 FM (FORMOSA)*
+https://sonicpanel.hostradios.com/8036/stream
+
 
