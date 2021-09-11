@@ -379,4 +379,70 @@ http://198.23.219.40:8000/manda.mp3
 #EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", RADIO FORMOSA 88.1 FM (FORMOSA)*
 https://sonicpanel.hostradios.com/8036/stream
 
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", RADIO AMISTAD 88.9 FM (FORMOSA)*
+http://server11.veemesoft.com.ar:5350/;
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", RADIO VISION FORMOSA 89.7 FM (FORMOSA)*
+http://190.210.9.28:9110/fmvisionformosa
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", RADIO MANATIAL 93.7 FM (FORMOSA)*
+http://streaming3.locucionar.com:18274/stream
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", RADIO DEL SOL 95.9 FM (FORMOSA)*
+https://01.solumedia.com.ar:7477/stream
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", RADIO EXA 97.7 FM (FORMOSA)*
+http://stream01.insidetec.com:8016/radioexa
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", RADIO UNO 99.9 FM (FORMOSA)*
+http://streamingraddios.online:10522/stream
+
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", UNIVERSIDAD 102.7 FM (FORMOSA)*
+https://streaming.radiosenlinea.com.ar:10959/;
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", LA RADIO,FM 104.5 FM (FORMOSA)*
+https://streaming1.locucionar.com/proxy/laradio?mp=/stream
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", RADIO CAFE 104.9 FM (FORMOSA)*
+https://play10.tikast.com/proxy/stream_o5?mp=/stream
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", RADIO SIETE IBARRETA 91.1 FM (FORMOSA)*
+https://sonicpanel.hostradios.com/8036/stream
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", RADIO LIDER BELLA VISTA 93.7 FM (CORRIENTES)*
+http://109.169.23.124:8409/;
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", FM IMPACTO BELLA VISTA 107.7 FM (CORRIENTES)*
+http://167.99.154.181:9060/;listen.pls?sid=1
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", FM POSITIVA 91.3 FM (CORRIENTES)*
+https://stream.zeno.fm/m609r0ya0tzuv
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", RADIOACTIVIDAD 91.5 FM (CORRIENTES)*
+http://200.58.106.247:8898/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", CV FM 93.5 FM (CORRIENTES)*
+http://centova1.veemesoft.com.ar:8081/live
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", RADIO EQUIS 101.3 FM (CORRIENTES)*
+http://server11.veemesoft.com.ar:9652/;
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", NET FM 102.3 FM (CORRIENTES)*
+http://server12.veemesoft.com.ar:19406/;
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", SANTA CATALINA 103.5 FM (CORRIENTES)*
+http://server4.veemesoft.com.ar:26965/;
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", FM NEXO 105.9 FM (CORRIENTES)*
+https://radio02.ferozo.com/proxy/ra02001383/?mp=/stream/;stream.mp3
+
+
+
+
+
+
+
+
+
 
