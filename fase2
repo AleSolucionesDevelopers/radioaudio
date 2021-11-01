@@ -1,8 +1,7 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Radio_rockpop.png" group-title="RADIO", ROCK AND POP *
-https://14623.live.streamtheworld.com/ROCKANDPOPAAC_SC
+
 
 #EXTINF:-1 tvg-logo="https://scontent.xx.fbcdn.net/v/t1.15752-9/p206x206/194667776_1325488631178242_2625435642671831030_n.png?_nc_cat=105&ccb=1-5&_nc_sid=aee45a&_nc_eui2=AeGjFileKoAmcVZV3_YfstU5D1ke-y3I80kPWR77LcjzSQpbWuFZ5FZDYgykISZR0D0&_nc_ohc=k3ZD8_2cqJAAX8EkJ42&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=1b5128b2941e5e1f171548ebfe7c2cf1&oe=615BAEFF" group-title="RADIO", IN THE MIX RADIO *
 http://01.solumedia.com.ar:8230/stream
@@ -10,49 +9,103 @@ http://01.solumedia.com.ar:8230/stream
 #EXTINF:-1 tvg-logo="https://scontent.xx.fbcdn.net/v/t1.15752-9/p206x206/217713158_346147727047544_343218205241236281_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=aee45a&_nc_eui2=AeF6xUIWsTEgKLb9AgAxJ6y2d3S8uc4QfWd3dLy5zhB9Zzch9A_Ujk735Wfzu1IoP38&_nc_ohc=ufwM8FgJXBEAX_J2P93&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=bd6fa595793e75326eaf6a5da3e9c0e5&oe=615C535F" group-title="RADIO", PREMIUM CLASSICS 98.9 FM *
 https://stream.zeno.fm/cvvvykmtpg8uv
 
-#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgsO_qigkMCxIOU3RhdGlvblByb2ZpbGUYgIDgqOjXowkMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="RADIO", FM LIDER 97.7 LOS CONDORES *
+
+#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgsO_qigkMCxIOU3RhdGlvblByb2ZpbGUYgIDgqOjXowkMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="LOS CONDORES", FM LIDER 97.7 LOS CONDORES *
 https://streaming.evolucionstreaming.com:10864/stream?icy=http
 
-#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgsO_qigkMCxIOU3RhdGlvblByb2ZpbGUYgIDgqOjXowkMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="RADIO", FM JOVEN 101.7 LOS CONDORES *
+#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgsO_qigkMCxIOU3RhdGlvblByb2ZpbGUYgIDgqOjXowkMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="LOS CONDORES", FM JOVEN 101.7 LOS CONDORES *
 https://streaming.evolucionstreaming.com:10865/stream?icy=http
 
-#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgsO_qigkMCxIOU3RhdGlvblByb2ZpbGUYgIDgqOjXowkMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="RADIO", FM DANCE 95.5 LOS CONDORES *
+#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgsO_qigkMCxIOU3RhdGlvblByb2ZpbGUYgIDgqOjXowkMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="LOS CONDORES", FM DANCE 95.5 LOS CONDORES *
 https://streaming.evolucionstreaming.com:10864/stream?icy=http
 
-#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgsO_qigkMCxIOU3RhdGlvblByb2ZpbGUYgIDgqOjXowkMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="RADIO", FM IDENTIDAD 103.1 LOS CONDORES *
+#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgsO_qigkMCxIOU3RhdGlvblByb2ZpbGUYgIDgqOjXowkMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="LOS CONDORES", FM IDENTIDAD 103.1 LOS CONDORES *
 https://streaming.evolucionstreaming.com:10863/stream?icy=http
 
-#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgsO_qigkMCxIOU3RhdGlvblByb2ZpbGUYgIDgqOjXowkMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="RADIO", ONDA CERO FM 99.9 LOS CONDORES *
+#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgsO_qigkMCxIOU3RhdGlvblByb2ZpbGUYgIDgqOjXowkMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="LOS CONDORES", ONDA CERO FM 99.9 LOS CONDORES *
 https://streaming.evolucionstreaming.com:10863/stream?icy=http
 
 
-#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgsO_qigkMCxIOU3RhdGlvblByb2ZpbGUYgIDgqOjXowkMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="RADIO", RADIO EXXA DIGITAL *
+#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgsO_qigkMCxIOU3RhdGlvblByb2ZpbGUYgIDgqOjXowkMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="LOS CONDORES", RADIO EXXA DIGITAL *
 https://stream.zeno.fm/a7swzubt9druv
 
-#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgsO_qigkMCxIOU3RhdGlvblByb2ZpbGUYgIDguLvRhAoMogEEemVubw/image/%3Fresize=500x500&v=1g" group-title="RADIO", ZERO FM LOS CONDORES *
+#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgsO_qigkMCxIOU3RhdGlvblByb2ZpbGUYgIDguLvRhAoMogEEemVubw/image/%3Fresize=500x500&v=1g" group-title="LOS CONDORES", ZERO FM LOS CONDORES *
 https://stream.zeno.fm/k1ya98waeeruv
 
-#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgsO_qigkMCxIOU3RhdGlvblByb2ZpbGUYgIDg07G9mwsMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="RADIO", RECORD FM LOS CONDORES *
+#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgsO_qigkMCxIOU3RhdGlvblByb2ZpbGUYgIDg07G9mwsMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="LOS CONDORES", RECORD FM LOS CONDORES *
 https://stream.zeno.fm/66h5rrtdtqzuv
 
-#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgsO_qigkMCxIOU3RhdGlvblByb2ZpbGUYgIDgwvK_nQsMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="RADIO", RADIO Q LOS CONDORES *
+#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgsO_qigkMCxIOU3RhdGlvblByb2ZpbGUYgIDgwvK_nQsMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="LOS CONDORES", RADIO Q LOS CONDORES *
 https://stream.zeno.fm/5vtgbzu61eruv
 
-#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgsO_qigkMCxIOU3RhdGlvblByb2ZpbGUYgIDgwZT64QoMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="RADIO", RADIO CLASICA LOS CONDORES *
+#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgsO_qigkMCxIOU3RhdGlvblByb2ZpbGUYgIDgwZT64QoMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="LOS CONDORES", RADIO CLASICA LOS CONDORES *
 https://stream.zeno.fm/e980rgz8dnruv
 
-#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgsO_qigkMCxIOU3RhdGlvblByb2ZpbGUYgIDgk-Cs1QkMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="RADIO", ENERGY DANCE FM LOS CONDORES *
+#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgsO_qigkMCxIOU3RhdGlvblByb2ZpbGUYgIDgk-Cs1QkMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="LOS CONDORES", ENERGY DANCE FM LOS CONDORES *
 https://stream.zeno.fm/s7g992v0nqzuv
 
-#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgsO_qigkMCxIOU3RhdGlvblByb2ZpbGUYgIDgguWXmQgMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="RADIO", FEELING FM LOS CONDORES *
+#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgsO_qigkMCxIOU3RhdGlvblByb2ZpbGUYgIDgguWXmQgMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="LOS CONDORES", FEELING FM LOS CONDORES *
 https://stream.zeno.fm/7vu5f8590eruv   
 
 
-#EXTINF:-1 tvg-logo="https://api.raddios.com/api/radios/16954/image/miniaturamovil?2020-09-18%2008:47:51" group-title="RADIO", FIESTA FM LOS CONDORES *
+#EXTINF:-1 tvg-logo="https://api.raddios.com/api/radios/16954/image/miniaturamovil?2020-09-18%2008:47:51" group-title="LOS CONDORES", FIESTA FM LOS CONDORES *
 https://stream.zeno.fm/aqcr0sv2xhruv
 
-#EXTINF:-1 tvg-logo="https://api.raddios.com/api/radios/16930/image/miniaturamovil?2020-09-10%2008:28:15" group-title="RADIO", ROMANTICA FM LOS CONDORES *
+#EXTINF:-1 tvg-logo="https://api.raddios.com/api/radios/16930/image/miniaturamovil?2020-09-10%2008:28:15" group-title="LOS CONDORES", ROMANTICA FM LOS CONDORES *
 https://stream.zeno.fm/waszcwhehhruv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Radio_rockpop.png" group-title="CABA", ROCK AND POP *
+https://14623.live.streamtheworld.com/ROCKANDPOPAAC_SC
+
+#EXTINF:-1 tvg-logo="https://www.uba.ar/radio/asset/img/logo_radio.jpg" group-title="CABA", RADIO UBA 87.7 FM *
+https://radiostreaming.rec.uba.ar/LiveRadioUBA/EnVivo_aac/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fmboedo.com.ar/wp-content/uploads/2020/03/logo-10a-06.png" group-title="CABA", FM BOEDO 88.1 FM *
+https://audio.bustream.com:8012/stream
+
+#EXTINF:-1 tvg-logo="https://www.radiosur.org.ar/images/RadioSur-Logo2018.jpg" group-title="CABA", RADIO SUR 88.3 FM *
+https://01.solumedia.com.ar:8020/stream
+
+#EXTINF:-1 tvg-logo="https://radiomaria.org.ar/contenido/themes/radioMaria2019/imgs/logo-rm-footer.png" group-title="CABA", RADIO MARIA 88.5 FM *
+https://dreamsiteradiocp6.com/proxy/argentinarm?mp=/stream
+
+#EXTINF:-1 tvg-logo="https://fmlatribu.com/wp-content/uploads/2020/05/JEDER_994_170-01.png" group-title="CABA", FM LA TRIBU 88.7 FM *
+https://vivo.fmlatribu.com/latribu.mp3
+
+#EXTINF:-1 tvg-logo="http://ambienteradio.com.ar/wp-content/uploads/2021/09/LOGO-Ambiente-Radio-mas-fentos.jpg" group-title="CABA", RADIO AMBIENTE 88.9 FM *
+https://sonic.dattalive.com/8470/stream
+
+#EXTINF:-1 tvg-logo="https://radiografica.org.ar/wp-content/uploads/2019/07/TOP-LOGO-FINAL-1-BAJA-RESOLUCI%C3%93N.png" group-title="CABA", RADIO GRAFICA 89.3 FM *
+http://radio13.servidorderadio.net:8110/api/v3/widgetsview?id=100&option=big&ssl=1&auto=0
+
+#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgsO_qigkMCxIOU3RhdGlvblByb2ZpbGUYgIDgguWXmQgMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="CABA", RADIO PORTEÑA 89.7 FM *
+https://us9.maindigitalstream.com/ssl/7194
+
+#EXTINF:-1 tvg-logo="https://www.fmlaboca.com.ar/wp-content/themes/noticias/images/logo.png" group-title="CABA", FM LA BOCA 90.1 FM *
+https://s24.myradiostream.com/14984/listen.mp3
+
+#EXTINF:-1 tvg-logo="https://fmdelta903.com/images/logo.png" group-title="CABA", DELTA 90.3 FM *
+https://cdn.instream.audio/:9069/stream?in_device_id=WPU6fda25b1153a4f7203a1e964034ead7dXY17cdcabbbae
+
+#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgsO_qigkMCxIOU3RhdGlvblByb2ZpbGUYgIDgguWXmQgMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="CABA", RADIO PANAMERICANA 90.7 FM *
+http://streaming.radiosenlinea.com.ar:8416/stream
+
+#EXTINF:-1 tvg-logo="https://www.radioub.com.ar/sitepad-data/uploads//2021/07/Logo-Sin-Fondo-1-1-300x300.png" group-title="CABA", RADIO UB 90.9 FM *
+https://radiolinksmedia.net.ar/8108/;
+
+#EXTINF:-1 tvg-logo="https://culturamusical.nyc3.digitaloceanspaces.com/2019/07/AMADEUS91-1-20194.png" group-title="CABA", AMADEUS 91.1 FM *
+https://streamingradiolinks.xyz/8484/;
+
+#EXTINF:-1 tvg-logo="https://laradioteescucha.com/wp-content/uploads/2021/05/logo4.png" group-title="CABA", LA RADIO TE ESCUCHA 91.3 FM *
+https://radios.streamingdha.com.ar:7000/;
+
+
+#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgsO_qigkMCxIOU3RhdGlvblByb2ZpbGUYgIDgguWXmQgMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="CABA", MUCHA RADIO 94.3 FM *
+https://us-b4-p-e-az1-audio.cdn.mdstrm.com/live-audio-aw/60a2765c40105808346c569f/playlist.m3u8?listeningSessionID=61700ca325326439_1056236_kQYlhFwW__0000003eoP5&downloadSessionID=0&aid=60106eadf34de307dd720e7b&dnt=true&uid=8RX6Ln4aDO29YFEelYEfD8iTSVXb1JAv&sid=SwEoqrtULLCVujuQ2y9JKZXDJFYMMT1T&pid=QqDSrc0VZlQeM9g8cRJQ4DMC6t0BCPNt&ref=mucharadio.com.ar&es=us-b4-p-e-az1-audio.cdn.mdstrm.com&ote=1635875825281&ot=AU3lvPa2erFE8Xb0IK7qYg&proto=https&pz=us&cP=128000&awCollectionId=60106eadf34de307dd720e7b&liveId=60a2765c40105808346c569f&referer=https%3A%2F%2Fmucharadio.com.ar%2F&propertyName=lightning-player&propertyType=web-app&propertyVersion=v0.0.173
+
+
+
+
 
 
 
