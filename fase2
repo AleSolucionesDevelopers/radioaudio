@@ -10,6 +10,22 @@ http://01.solumedia.com.ar:8230/stream
 #EXTINF:-1 tvg-logo="https://scontent.xx.fbcdn.net/v/t1.15752-9/p206x206/217713158_346147727047544_343218205241236281_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=aee45a&_nc_eui2=AeF6xUIWsTEgKLb9AgAxJ6y2d3S8uc4QfWd3dLy5zhB9Zzch9A_Ujk735Wfzu1IoP38&_nc_ohc=ufwM8FgJXBEAX_J2P93&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=bd6fa595793e75326eaf6a5da3e9c0e5&oe=615C535F" group-title="RADIO", PREMIUM CLASSICS 98.9 FM *
 https://stream.zeno.fm/cvvvykmtpg8uv
 
+#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgsO_qigkMCxIOU3RhdGlvblByb2ZpbGUYgIDgqOjXowkMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="RADIO", FM LIDER 97.7 LOS CONDORES *
+https://streaming.evolucionstreaming.com:10864/stream?icy=http
+
+#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgsO_qigkMCxIOU3RhdGlvblByb2ZpbGUYgIDgqOjXowkMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="RADIO", FM JOVEN 101.7 LOS CONDORES *
+https://streaming.evolucionstreaming.com:10865/stream?icy=http
+
+#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgsO_qigkMCxIOU3RhdGlvblByb2ZpbGUYgIDgqOjXowkMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="RADIO", FM DANCE 95.5 LOS CONDORES *
+https://streaming.evolucionstreaming.com:10864/stream?icy=http
+
+#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgsO_qigkMCxIOU3RhdGlvblByb2ZpbGUYgIDgqOjXowkMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="RADIO", FM IDENTIDAD 103.1 LOS CONDORES *
+https://streaming.evolucionstreaming.com:10863/stream?icy=http
+
+#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgsO_qigkMCxIOU3RhdGlvblByb2ZpbGUYgIDgqOjXowkMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="RADIO", ONDA CERO FM 99.9 LOS CONDORES *
+https://streaming.evolucionstreaming.com:10863/stream?icy=http
+
+
 #EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgsO_qigkMCxIOU3RhdGlvblByb2ZpbGUYgIDgqOjXowkMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="RADIO", RADIO EXXA DIGITAL *
 https://stream.zeno.fm/a7swzubt9druv
 
