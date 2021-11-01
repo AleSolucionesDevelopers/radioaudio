@@ -78,7 +78,7 @@ https://sonic.dattalive.com/8470/stream
 #EXTINF:-1 tvg-logo="https://radiografica.org.ar/wp-content/uploads/2019/07/TOP-LOGO-FINAL-1-BAJA-RESOLUCI%C3%93N.png" group-title="CABA", RADIO GRAFICA 89.3 FM *
 http://radio13.servidorderadio.net:8110/api/v3/widgetsview?id=100&option=big&ssl=1&auto=0
 
-#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgsO_qigkMCxIOU3RhdGlvblByb2ZpbGUYgIDgguWXmQgMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="CABA", RADIO PORTEÑA 89.7 FM *
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/z/logotipo-de-radio-icono-vector-simple-124841230.jpg" group-title="CABA", RADIO PORTEÑA 89.7 FM *
 https://us9.maindigitalstream.com/ssl/7194
 
 #EXTINF:-1 tvg-logo="https://www.fmlaboca.com.ar/wp-content/themes/noticias/images/logo.png" group-title="CABA", FM LA BOCA 90.1 FM *
@@ -87,7 +87,7 @@ https://s24.myradiostream.com/14984/listen.mp3
 #EXTINF:-1 tvg-logo="https://fmdelta903.com/images/logo.png" group-title="CABA", DELTA 90.3 FM *
 https://cdn.instream.audio/:9069/stream?in_device_id=WPU6fda25b1153a4f7203a1e964034ead7dXY17cdcabbbae
 
-#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgsO_qigkMCxIOU3RhdGlvblByb2ZpbGUYgIDgguWXmQgMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="CABA", RADIO PANAMERICANA 90.7 FM *
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/z/logotipo-de-radio-icono-vector-simple-124841230.jpg" group-title="CABA", RADIO PANAMERICANA 90.7 FM *
 http://streaming.radiosenlinea.com.ar:8416/stream
 
 #EXTINF:-1 tvg-logo="https://www.radioub.com.ar/sitepad-data/uploads//2021/07/Logo-Sin-Fondo-1-1-300x300.png" group-title="CABA", RADIO UB 90.9 FM *
@@ -100,7 +100,7 @@ https://streamingradiolinks.xyz/8484/;
 https://radios.streamingdha.com.ar:7000/;
 
 
-#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgsO_qigkMCxIOU3RhdGlvblByb2ZpbGUYgIDgguWXmQgMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="CABA", MUCHA RADIO 94.3 FM *
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/z/logotipo-de-radio-icono-vector-simple-124841230.jpg" group-title="CABA", MUCHA RADIO 94.3 FM *
 https://us-b4-p-e-az1-audio.cdn.mdstrm.com/live-audio-aw/60a2765c40105808346c569f/playlist.m3u8?listeningSessionID=61700ca325326439_1056236_kQYlhFwW__0000003eoP5&downloadSessionID=0&aid=60106eadf34de307dd720e7b&dnt=true&uid=8RX6Ln4aDO29YFEelYEfD8iTSVXb1JAv&sid=SwEoqrtULLCVujuQ2y9JKZXDJFYMMT1T&pid=QqDSrc0VZlQeM9g8cRJQ4DMC6t0BCPNt&ref=mucharadio.com.ar&es=us-b4-p-e-az1-audio.cdn.mdstrm.com&ote=1635875825281&ot=AU3lvPa2erFE8Xb0IK7qYg&proto=https&pz=us&cP=128000&awCollectionId=60106eadf34de307dd720e7b&liveId=60a2765c40105808346c569f&referer=https%3A%2F%2Fmucharadio.com.ar%2F&propertyName=lightning-player&propertyType=web-app&propertyVersion=v0.0.173
 
 
