@@ -1,14 +1,11 @@
 
 #EXTM3U
 
-
-
 #EXTINF:-1 tvg-logo="https://scontent.xx.fbcdn.net/v/t1.15752-9/p206x206/194667776_1325488631178242_2625435642671831030_n.png?_nc_cat=105&ccb=1-5&_nc_sid=aee45a&_nc_eui2=AeGjFileKoAmcVZV3_YfstU5D1ke-y3I80kPWR77LcjzSQpbWuFZ5FZDYgykISZR0D0&_nc_ohc=k3ZD8_2cqJAAX8EkJ42&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=1b5128b2941e5e1f171548ebfe7c2cf1&oe=615BAEFF" group-title="RADIO", IN THE MIX RADIO *
 http://01.solumedia.com.ar:8230/stream
 
 #EXTINF:-1 tvg-logo="https://scontent.xx.fbcdn.net/v/t1.15752-9/p206x206/217713158_346147727047544_343218205241236281_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=aee45a&_nc_eui2=AeF6xUIWsTEgKLb9AgAxJ6y2d3S8uc4QfWd3dLy5zhB9Zzch9A_Ujk735Wfzu1IoP38&_nc_ohc=ufwM8FgJXBEAX_J2P93&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=bd6fa595793e75326eaf6a5da3e9c0e5&oe=615C535F" group-title="RADIO", PREMIUM CLASSICS 98.9 FM *
 https://stream.zeno.fm/cvvvykmtpg8uv
-
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-rQxzpEj8xZQ/YOOFI7lGfGI/AAAAAAAAWxI/NpbruI3VaTwJSuPUHk0G1EgWZ5EfgMdsQCLcBGAsYHQ/s0/fm-lider-los-condores.png" group-title="LOS CONDORES", FM LIDER 97.7 LOS CONDORES *
 https://streaming.evolucionstreaming.com:10864/stream?icy=http
@@ -24,7 +21,6 @@ https://streaming.evolucionstreaming.com:10863/stream?icy=http
 
 #EXTINF:-1 tvg-logo="https://api.raddios.com/api/radios/7975/image/miniaturamovil?2021-03-10-04:34:05" group-title="LOS CONDORES", ONDA CERO FM 99.9 LOS CONDORES *
 https://streaming.evolucionstreaming.com:10863/stream?icy=http
-
 
 #EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgsO_qigkMCxIOU3RhdGlvblByb2ZpbGUYgIDgqOjXowkMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="LOS CONDORES", RADIO EXXA DIGITAL *
 https://stream.zeno.fm/a7swzubt9druv
@@ -47,12 +43,13 @@ https://stream.zeno.fm/s7g992v0nqzuv
 #EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgsO_qigkMCxIOU3RhdGlvblByb2ZpbGUYgIDgguWXmQgMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="LOS CONDORES", FEELING FM LOS CONDORES *
 https://stream.zeno.fm/7vu5f8590eruv   
 
-
 #EXTINF:-1 tvg-logo="https://api.raddios.com/api/radios/16954/image/miniaturamovil?2020-09-18%2008:47:51" group-title="LOS CONDORES", FIESTA FM LOS CONDORES *
 https://stream.zeno.fm/aqcr0sv2xhruv
 
 #EXTINF:-1 tvg-logo="https://api.raddios.com/api/radios/16930/image/miniaturamovil?2020-09-10%2008:28:15" group-title="LOS CONDORES", ROMANTICA FM LOS CONDORES *
 https://stream.zeno.fm/waszcwhehhruv
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Radio_rockpop.png" group-title="CABA", ROCK AND POP *
 https://14623.live.streamtheworld.com/ROCKANDPOPAAC_SC
@@ -99,65 +96,84 @@ https://streamingradiolinks.xyz/8484/;
 #EXTINF:-1 tvg-logo="https://laradioteescucha.com/wp-content/uploads/2021/05/logo4.png" group-title="CABA", LA RADIO TE ESCUCHA 91.3 FM *
 https://radios.streamingdha.com.ar:7000/;
 
+#EXTINF:-1 tvg-logo="https://escuchanosonline.com/clientes/img/logos/61d480e64ba74eb679b48b91e2dbf43d.png" group-title="CABA", FM SOLDATI 91.3 FM *
+https://streaming.escuchanosonline.com:7018/stream
+
+#EXTINF:-1 tvg-logo="https://www.mantrafm.com.ar/site2020/wp-content/uploads/2020/04/logo.png" group-title="CABA", MANTRA FM 91.9 *
+https://streamlky.alsolnet.com/mantrafm
+
+#EXTINF:-1 tvg-logo="https://www.923laradio.com.ar/web-ama.jpg" group-title="CABA", AMA FM 92.3 *
+https://panel.nexolife.ar/stream/laradio923?1635792135856
+
+#EXTINF:-1 tvg-logo="https://frecuenciazero.ar/wp-content/uploads/sites/3/2020/07/logo-web-frecuencia-zero-fm.png" group-title="CABA", FRECUENCIA ZERO FM 92.5 *
+https://us9.streamingpulse.com/ssl/FrecuenciaZeroFM
+
+#EXTINF:-1 tvg-logo="https://www.buenosaires.gob.ar/sites/gcaba/themes/gcbaV4/xgcaba/css/BA2016.png" group-title="CABA", LA 2X4 FM 92.7 *
+https://tus.radios.ar/9270/stream
+
+#EXTINF:-1 tvg-logo="http://late931.com.ar/wp-content/uploads/2019/04/late-logo-header-2019bw.png" group-title="CABA", FM LATE 93.1 *
+http://streaming.radiolinksmedia.com:8252/;stream
+
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/radio_logos/07/a4/07a4cbdf-6559-4659-adaa-fcbfd2c280f3.jpg" group-title="CABA", NACIONAL ROCK 93.7 *
+https://lemu.fibercorp.com.ar/eb5d51d53b38f1ae891163cf5fe76856/
+
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Podcasts114/v4/46/ed/d9/46edd93b-41f0-e38a-5337-f0cee6a8e0d8/mza_11583143471676193328.jpg/600x600bb.jpg" group-title="CABA", FM ACTIVA 93.9 *
+https://radiosar.com:2083/widgets/player/nowplay.php
+
+#EXTINF:-1 tvg-logo="http://www.radioasamblea.com/sites/all/themes/custom/radio_asamblea/logo.png" group-title="CABA", RADIO ASAMBLEA 94.1 *
+http://server.laradio.online:25057/live?type=.mp3
 
 #EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/z/logotipo-de-radio-icono-vector-simple-124841230.jpg" group-title="CABA", MUCHA RADIO 94.3 FM *
 https://us-b4-p-e-az1-audio.cdn.mdstrm.com/live-audio-aw/60a2765c40105808346c569f/playlist.m3u8?listeningSessionID=61700ca325326439_1056236_kQYlhFwW__0000003eoP5&downloadSessionID=0&aid=60106eadf34de307dd720e7b&dnt=true&uid=8RX6Ln4aDO29YFEelYEfD8iTSVXb1JAv&sid=SwEoqrtULLCVujuQ2y9JKZXDJFYMMT1T&pid=QqDSrc0VZlQeM9g8cRJQ4DMC6t0BCPNt&ref=mucharadio.com.ar&es=us-b4-p-e-az1-audio.cdn.mdstrm.com&ote=1635875825281&ot=AU3lvPa2erFE8Xb0IK7qYg&proto=https&pz=us&cP=128000&awCollectionId=60106eadf34de307dd720e7b&liveId=60a2765c40105808346c569f&referer=https%3A%2F%2Fmucharadio.com.ar%2F&propertyName=lightning-player&propertyType=web-app&propertyVersion=v0.0.173
 
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-kc7Q7AtX5wM/T_OmqfdUaGI/AAAAAAAAUc4/Ej9diV0UEko/s1600/radiodisney.png" group-title="CABA", RADIO DISNEY 94.3 FM *
+https://20283.live.streamtheworld.com/DISNEY_ARG_BA.mp3?dist=web-radiodisney-disneylatino
 
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Radio_Rivadavia_%282020%29.png" group-title="RADIO", RADIO RIVADAVIA *
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Radio_Rivadavia_%282020%29.png" group-title="CABA", RADIO RIVADAVIA *
 https://14103.live.streamtheworld.com/RIVADAVIAAAC_SC
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logo_Cadena3.jpg/1200px-Logo_Cadena3.jpg" group-title="RADIO", CADENA 3 *
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logo_Cadena3.jpg/1200px-Logo_Cadena3.jpg" group-title="CABA", CADENA 3 *
 https://20823.live.streamtheworld.com/CADENA3_SC
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Los_40.svg" group-title="RADIO", LOS 40 105.5 FM *
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Los_40.svg" group-title="CABA", LOS 40 105.5 FM *
 http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ARGENTINAAAC 
 
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/88feb4de6cabd53d7af9879e56131cbd.jpg" group-title="RADIO", RADIO VALE 97.5 FM *
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/88feb4de6cabd53d7af9879e56131cbd.jpg" group-title="CABA", RADIO VALE 97.5 FM *
 http://vale.stweb.tv:1935/vale/live/playlist.m3u8
 
-#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-VAhlDpNd9mNuPlfZZ0iCAe3xDjf9K7xMf6UE1DESKBeGxnoIFutlfPefX_MbXyuzvk8&usqp=CAU" group-title="RADIO", RADIO MADRE *
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-VAhlDpNd9mNuPlfZZ0iCAe3xDjf9K7xMf6UE1DESKBeGxnoIFutlfPefX_MbXyuzvk8&usqp=CAU" group-title="CABA", RADIO MADRE *
 http://cdn.instream.audio:9288/stream  
 
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Mitre_SA.JPG" group-title="RADIO", RADIO MITRE *
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Mitre_SA.JPG" group-title="CABA", RADIO MITRE *
 https://musicsrc.cvattv.com.ar/RMIT
 
-#EXTINF:-1   tvg-logo="https://radiodelpueblo.com.ar/files/logo3.png" group-title="RADIO", RADIO DEL PUEBLO *
+#EXTINF:-1 tvg-logo="https://radiodelpueblo.com.ar/files/logo3.png" group-title="CABA", RADIO DEL PUEBLO *
 http://streaming.radiolinksmedia.com:7830/;       
  
-#EXTINF:-1   tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/fab9780655718aef08c728050538aa16.jpg" group-title="RADIO", RADIO DE LA CIUDAD 1100 AM *
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/fab9780655718aef08c728050538aa16.jpg" group-title="CABA", RADIO DE LA CIUDAD 1100 AM *
 http://radios.argentina.fm:1110/stream 
 
-#EXTINF:-1   tvg-logo="https://radiolaluna.com.ar/wp-content/uploads/2021/05/LOGO-APP.jpg" group-title="RADIO", RADIO LA LUNA 1140AM
+#EXTINF:-1 tvg-logo="https://radiolaluna.com.ar/wp-content/uploads/2021/05/LOGO-APP.jpg" group-title="CABA", RADIO LA LUNA 1140AM
 http://server.ohradio.com.ar:9344/;
 
-#EXTINF:-1   tvg-logo="https://www.radio.es/images/broadcasts/57/3c/16198/1/c300.png" group-title="RADIO", La 2x4 *  
-http://radios.argentina.fm:9270/stream   
-
-#EXTINF:-1   tvg-logo="https://4.bp.blogspot.com/-nVsNM7EKqcg/W6sHzNONvII/AAAAAAAAGV8/4IqgAOx-nr8B1JDoG4Zvv_vJFHLG94BfQCLcBGAs/s1600/late-93-1.png" group-title="RADIO", Late *  
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-nVsNM7EKqcg/W6sHzNONvII/AAAAAAAAGV8/4IqgAOx-nr8B1JDoG4Zvv_vJFHLG94BfQCLcBGAs/s1600/late-93-1.png" group-title="CABA", Late *  
 http://streaming.radiolinksmedia.com:8252/;stream   
 
-#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4IRO-v94sC9UnN2TqNt9xWR7rzkX81jbTd8DwhpniXc3LU-M_MTaWC7Hi60TBVjkr56k&usqp=CAU" group-title="RADIO", Nacional Rock *  
-http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad39  
-
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Metro951.png/225px-Metro951.png" group-title="RADIO", Metro * 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Metro951.png/225px-Metro951.png" group-title="CABA", Metro * 
 http://mp3.metroaudio1.stream.avstreaming.net:7200/metro  
 
- #EXTINF:-1   tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/radio_logos/64/a7/64a7bb75-e83e-4c9f-b758-43b90a04a858.jpg" group-title="RADIO", Nacional Clásica *
+ #EXTINF:-1   tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/radio_logos/64/a7/64a7bb75-e83e-4c9f-b758-43b90a04a858.jpg" group-title="CABA", Nacional Clásica *
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad37  
 
-#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-bfB665TOB9g/YCPr2H1AL-I/AAAAAAAA8I4/gJNFVc6-mJEyRF6jm1ZasCeA-BQZrwWSQCLcBGAsYHQ/s338/radio-folk-2021.png" group-title="RADIO", Nacional Folklorica 98.7 *
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-bfB665TOB9g/YCPr2H1AL-I/AAAAAAAA8I4/gJNFVc6-mJEyRF6jm1ZasCeA-BQZrwWSQCLcBGAsYHQ/s338/radio-folk-2021.png" group-title="CABA", Nacional Folklorica 98.7 *
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad38 
 
-#EXTINF:-1   tvg-logo="https://www.latina101.com.ar/images/logo.png" group-title="RADIO", Latina 101.1 *
+#EXTINF:-1   tvg-logo="https://www.latina101.com.ar/images/logo.png" group-title="CABA", Latina 101.1 *
 http://streaming.latina101.com.ar:8080/RadioLatina  
 
-#EXTINF:-1   tvg-logo="https://www.radio.es/images/broadcasts/8a/7f/130196/1/c175.png" group-title="RADIO", La patriada 102.1 *
+#EXTINF:-1   tvg-logo="https://www.radio.es/images/broadcasts/8a/7f/130196/1/c175.png" group-title="CABA", La patriada 102.1 *
 http://server4.stweb.tv:1935/lapatriada/live/playlist.m3u8 
 
 #EXTINF:-1   tvg-logo="https://cdn.discordapp.com/attachments/821772446185029674/881242869116076092/LTO_Radio_Logo.png" group-title="RADIO", LTO RADIO CATAMARCA *
