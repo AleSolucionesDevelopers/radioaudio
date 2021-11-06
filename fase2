@@ -7,6 +7,9 @@ http://01.solumedia.com.ar:8230/stream
 #EXTINF:-1 tvg-logo="https://scontent.xx.fbcdn.net/v/t1.15752-9/p206x206/217713158_346147727047544_343218205241236281_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=aee45a&_nc_eui2=AeF6xUIWsTEgKLb9AgAxJ6y2d3S8uc4QfWd3dLy5zhB9Zzch9A_Ujk735Wfzu1IoP38&_nc_ohc=ufwM8FgJXBEAX_J2P93&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=bd6fa595793e75326eaf6a5da3e9c0e5&oe=615C535F" group-title="RADIO", PREMIUM CLASSICS 98.9 FM *
 https://stream.zeno.fm/cvvvykmtpg8uv
 
+#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.6435-9/119949863_112609013926867_4578853203169186369_n.png?_nc_cat=105&ccb=1-5&_nc_sid=973b4a&_nc_ohc=yMFDf45FyeUAX_aXIiJ&_nc_ht=scontent.fepa11-1.fna&oh=1e90bef914cdab4b6c13a371bf193c60&oe=61ADE739" group-title="LOS CONDORES", N24 RADIO LOS CONDORES *
+https://streaming01.shockmedia.com.ar:10299/stream?icy=http
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-rQxzpEj8xZQ/YOOFI7lGfGI/AAAAAAAAWxI/NpbruI3VaTwJSuPUHk0G1EgWZ5EfgMdsQCLcBGAsYHQ/s0/fm-lider-los-condores.png" group-title="LOS CONDORES", FM LIDER 97.7 LOS CONDORES *
 https://streaming.evolucionstreaming.com:10864/stream?icy=http
 
