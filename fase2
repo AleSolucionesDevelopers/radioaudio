@@ -583,6 +583,29 @@ http://streaming2.locucionar.com:8661/stream
 #EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="CORRIENTES", ESTACION FM SANTO TOME 96.7 FM (CORRIENTES)*
 http://server6.veemesoft.com.ar:19342/;
 
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="LA RIOJA", FM ORION 88.7 CHEPES (LA RIOJA)*
+https://server4.hostradios.com/9624/stream
+
+#EXTINF:-1 tvg-logo="https://www.orionfmchepes.com.ar/uploads/logo/logo_5f616c7ef2c15.png" group-title="LA RIOJA", RADIO DEL SUR 91.9 CHEPES (LA RIOJA)*
+http://streaming01.shockmedia.com.ar:9516/;stream.mp3
+
+#EXTINF:-1 tvg-logo="http://www.nuestrolugarfm.com.ar/img/portada2017b.jpg" group-title="LA RIOJA", NUESTRO LUGAR FM 89.9 CHILECITO (LA RIOJA)*
+http://server2.veemesoft.com.ar:9470/;
+
+#EXTINF:-1 tvg-logo="http://www.fmfrontera.com/images/FONDOFRONTERA-TRANSP-tablet-2r.png" group-title="LA RIOJA", FM FRONTERA 97.7 CHILECITO (LA RIOJA)*
+http://fronterastream.ddns.net/;
+
+#EXTINF:-1 tvg-logo="http://www.fantastica1017.com.ar/images/logof.jpg" group-title="LA RIOJA", FANTASTICA 101.7 CHILECITO (LA RIOJA)*
+http://alpha.radioplayer.com.ar:9180/fantastica-chilecito
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="LA RIOJA", LA VOZ 92.7 FM GUANDACOL (LA RIOJA)*
+https://server.laradio.online/proxy/joaquin_pinto?mp=/stream&1636227179371
+
+#EXTINF:-1 tvg-logo="http://www.concierto947.com.ar/portada.jpg" group-title="LA RIOJA", CONCIERTO FM 94.7 GUANDACOL (LA RIOJA)*
+https://01.solumedia.com.ar:8112/stream
+
+#EXTINF:-1 tvg-logo="https://radioarg.net/assets/image/radio/180/nacional-la-rioja-am-620.png" group-title="LA RIOJA", NACIONAL LA RIOJA AM 620 (LA RIOJA)*
+https://lemu.fibercorp.com.ar/eb5d51d53b38f1ae891163cf5fe76856/
 
 
 
