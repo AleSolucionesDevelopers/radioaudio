@@ -16,11 +16,11 @@ https://streaming.evolucionstreaming.com:10864/stream?icy=http
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio21747_1463683159.jpg" group-title="LOS CONDORES", FM JOVEN 101.7 LOS CONDORES *
 https://streaming.evolucionstreaming.com:10865/stream?icy=http
 
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/z/logotipo-de-radio-icono-vector-simple-124841230.jpg" group-title="LOS CONDORES", FM DANCE 95.5 LOS CONDORES *
-https://streaming.evolucionstreaming.com:10864/stream?icy=http
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/z/logotipo-de-radio-icono-vector-simple-124841230.jpg" group-title="LOS CONDORES", FM DANCE 95.3 LOS CONDORES *
+https://streaming.evolucionstreaming.com:10788/stream?icy=http
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/466382656532676608/bXocPGld_400x400.jpeg" group-title="LOS CONDORES", FM IDENTIDAD 103.1 LOS CONDORES *
-https://streaming.evolucionstreaming.com:10863/stream?icy=http
+https://streaming.evolucionstreaming.com:10789/stream?icy=http
 
 #EXTINF:-1 tvg-logo="https://api.raddios.com/api/radios/7975/image/miniaturamovil?2021-03-10-04:34:05" group-title="LOS CONDORES", ONDA CERO FM 99.9 LOS CONDORES *
 https://streaming.evolucionstreaming.com:10863/stream?icy=http
